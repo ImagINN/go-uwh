@@ -19,7 +19,7 @@ func testQuad(quadName string, quad func(int, int)) {
 	fmt.Println("------------------------")
 	fmt.Println("Test Case 3:")
 	fmt.Println()
-	test(1, 1, quad)
+	test(7, 16, quad)
 	fmt.Println("------------------------")
 	fmt.Println("Test Case 4:")
 	fmt.Println()
